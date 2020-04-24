@@ -1,15 +1,4 @@
-﻿/*
-	KursySQL.pl
-	Tomasz Libera | libera@kursysql.pl
-
-	FUNKCJE
-	A: Konwersja danych
-
-*/
-
-
-
-USE AdventureWorks2017
+﻿USE AdventureWorks2017
 GO
 
 

@@ -1,5 +1,3 @@
-
-
 USE AdventureWorks2017
 GO
 

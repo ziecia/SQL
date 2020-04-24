@@ -1,15 +1,3 @@
-/*
-	KursySQL.pl
-	Tomasz Libera | libera@kursysql.pl
-
-	INDEKSY
-
-*/
-
---> Setup
-
-
-
 USE AdventureWorks2017
 GO
 

@@ -1,14 +1,3 @@
-/*
-
-	Kurs SQL120 - Język SQL w 2 godziny
-	www.kursysql.pl
-
-	Tomasz Lbera | MVP Data Platform | 	libera@kursysql.pl
-
-*/
-
-
-
 USE AdventureWorks2017
 GO
 
